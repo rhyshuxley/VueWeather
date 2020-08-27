@@ -1,5 +1,7 @@
 # weather
 
+Vue.js weather app using Open Weather Map Current Weather API
+
 ## Project setup
 ```
 npm install
