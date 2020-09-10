@@ -1,3 +1,5 @@
+Hosted at http://rhyshuxley.co.uk/weather
+
 # weather
 
 Vue.js weather app using Open Weather Map Current Weather API
